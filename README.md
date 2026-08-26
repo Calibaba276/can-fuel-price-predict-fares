@@ -2,6 +2,12 @@
 
 > An experiment investigating whether changes in petrol prices are associated with changes in intra-city transport fares in Nigeria using linear regression implemented from scratch.
 
+## Project Website
+
+Want to see the results and explore the data interactively?
+
+**[Visit the Compute Cost Project →](https://commute-cost.calebabs207.workers.dev/)**
+
 ## Overview
 
 Fuel prices have a noticeable effect on the cost of transportation in Nigeria, but **how strong is the relationship between petrol prices and transport fares?**
@@ -258,10 +264,10 @@ Feel free to **Contribute** to bring all these great suggestions to LIFE!
 
 ## Data Source
 
-Data was obtained from the **National Bureau of Statistics (NBS), Nigeria**.
+Data was obtained from the [**National Bureau of Statistics (NBS), Nigeria**](https://microdata.nigerianstat.gov.ng/index.php/home).
 
 The project combines information from the NBS Petrol Price Watch and Transport Fare Watch datasets.
 
 ## License
 
-This project is intended primarily as a learning and experimentation project.
+This project is intended primarily as a learning and experimentation project. **Contributions are always Welcome!**
